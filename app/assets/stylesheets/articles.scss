@@ -7,10 +7,21 @@ text-decoration: none;
 text-align: center;
 border-radius: 10px;
 font-family: "Gill Sans", sans-serif;
-color: #4ab0d2f5;
+color: #202c35
 }
 
 body {
   font-family: sans-serif;
   background-image: url('wallpaper2.png');
+  margin-top: 9em;
+  color: #202c35;
+}
+
+button {
+  padding: 30px;
+  font-size: 80px;
+  background-image: url('wallpaper2.png');
+  border-radius: 70px;
+  border: solid 2px #022d3cf5;
+  text-align: center;
 }
